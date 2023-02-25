@@ -1,0 +1,50 @@
+#accroche {
+    height: 100%;
+    background-image: url(../image/windows.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#accroche h2 {
+    text-transform: uppercase;
+    color: white;
+    font-size: 34px;
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+#exemple {
+    height: 100%;
+    background-image: url(../image/mac.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#exemple h2 {
+    text-transform: uppercase;
+    color: white;
+    font-size: 34px;
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+#linux {
+    height: 100%;
+    background-image: url(../image/linux.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#linux h2 {
+    text-transform: uppercase;
+    color: white;
+    font-size: 34px;
+    margin: 0;
+    margin-bottom: 40px;
+}
